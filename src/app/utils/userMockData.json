@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "Full name": "Jordan Brown",
+    "department": "HR Manager"
+  },
+  {
+    "id": 2,
+    "Full name": "Jordan Johnson",
+    "department": "Marketing Specialist"
+  },
+  {
+    "id": 3,
+    "Full name": "Taylor Green",
+    "department": "Data Analyst"
+  },
+  {
+    "id": 4,
+    "Full name": "Alex Green",
+    "department": "Visual Designer"
+  },
+  {
+    "id": 5,
+    "Full name": "Taylor Brown",
+    "department": "HR Manager"
+  },
+  {
+    "id": 6,
+    "Full name": "Taylor Smith",
+    "department": "Marketing Specialist"
+  },
+  {
+    "id": 7,
+    "Full name": "Bonnie Johnson",
+    "department": "Software Engineer"
+  },
+  {
+    "id": 8,
+    "Full name": "Jordan Williams",
+    "department": "Marketing Specialist"
+  },
+  {
+    "id": 9,
+    "Full name": "Bonnie Brown",
+    "department": "Marketing Specialist"
+  },
+  {
+    "id": 10,
+    "Full name": "Bonnie Williams",
+    "department": "Marketing Specialist"
+  }
+]
